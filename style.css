@@ -1,0 +1,27 @@
+body{
+    font-family:'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    }
+    .container {
+    background: rgb(245, 221, 5);
+    padding: 90px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    input{
+    display: block;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    }
+    button{
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    }
